@@ -1,11 +1,11 @@
 # Java Graph Mapping & Pathfinding App
 
 * **Author:** Tyler Waltner
-
+* **Date:** December 5, 2025
 <img width="600" height="auto" alt="Screenshot 2025-12-08 at 1 28 45 AM" src="https://github.com/user-attachments/assets/8c5a7178-371d-4f23-8eeb-092cfcda2da9" />
 <img width="600" height="auto" alt="Screenshot 2025-12-08 at 1 26 17 AM" src="https://github.com/user-attachments/assets/354a5554-7c3f-46f0-959e-7099a4352736" />
 
-* **Date:** December 5, 2025
+
 
 ---
 

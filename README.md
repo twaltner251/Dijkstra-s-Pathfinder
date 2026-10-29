@@ -29,16 +29,10 @@ The project is structured into the following core classes:
 ---
 
 Challenges Faced:
-Implementing custom Prio-Q from scratch was a key learning challenge for me, I had to first conceptually wrap my head around all functions of a Prio-Q and then go on to implement each function one by one.
-I spent 20-30mins 'bugfixing' trying to find why my program was constantly outputting "No path found" and it wasn't able to even identify the starting or ending intersections.
+1. Implementing custom Prio-Q from scratch was a key learning challenge for me, I had to first conceptually wrap my head around all functions of a Prio-Q and then go on to implement each function one by one.
+2. I spent 20-30mins 'bugfixing' trying to find why my program was constantly outputting "No path found" and it wasn't able to even identify the starting or ending intersections.
 But it turned out to be a user error where I was typing in the intersection names of ur.txt in camel case instead of uppercase. 
-Example of what I typed in: 
-java Main.java ur.txt --show --directions Hylan Gavett 
-
-While ur.txt has all of the named intersections in uppercase so all I had to type in was:
-java Main.java ur.txt --show --directions HYLAN GAVETT
-
-I felt very silly after finding this out...
+Example of what I typed in: java Main.java ur.txt --show --directions Hylan Gavett While ur.txt has all of the named intersections in uppercase so all I had to type in was: java Main.java ur.txt --show --directions HYLAN GAVETT
 
 ---
 
